@@ -1,4 +1,4 @@
-local keylist = {
+_G.keylist = {
   "nPykpSYfQUj4Vdkn6Cs",
   "qFP1dKyyi9Dirp8Itap",
   "beRQdMT4RenHBt8YaZ2",
